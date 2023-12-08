@@ -76,8 +76,7 @@ public class ATMOperation implements Interface{
         }
         else {
             System.out.println("Please enter the amount in multiple of 100");
-        }
-    
+        }   
     }
 
     //Method to deposit Amount
